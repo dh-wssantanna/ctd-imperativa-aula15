@@ -15,3 +15,5 @@
 5. Submeta um `pull request` para avaliação do professor.
 
 **Obs.:** Comentários, avaliação do código e dicas serão registradas nesse `pull request`.
+
+### Sala 05: Lilian Melim, Bruno Beneventi, Denis Carbone, Raimundo Neto
